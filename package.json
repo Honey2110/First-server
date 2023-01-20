@@ -1,0 +1,21 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "My First Node.js Project",
+  "main": "server.js",
+  "scripts": {
+    "start": " node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honey2110/First-server.git"
+  },
+  "author": "Swapnil k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Honey2110/First-server-Pratice/issues"
+  },
+  "homepage": "https://github.com/Honey2110/First-server-Pratice#readme"
+}
+
+
